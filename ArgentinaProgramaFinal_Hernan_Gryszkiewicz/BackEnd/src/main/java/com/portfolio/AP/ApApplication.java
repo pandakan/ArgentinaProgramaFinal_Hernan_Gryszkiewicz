@@ -1,13 +1,13 @@
-package com.integrador.HRG;
+package com.portfolio.AP;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HrgApplication {
+public class ApApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HrgApplication.class, args);
+		SpringApplication.run(ApApplication.class, args);
 	}
 
 }

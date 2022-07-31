@@ -1,10 +1,10 @@
-package com.integrador.HRG;
+package com.portfolio.AP;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HrgApplicationTests {
+class ApApplicationTests {
 
 	@Test
 	void contextLoads() {
